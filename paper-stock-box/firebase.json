@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "source": "./src",
+    "source": "./paper-stock-box",
     "ignore": [
       "firebase.json",
       "**/.*",
